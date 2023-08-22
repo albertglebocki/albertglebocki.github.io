@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dox-dev.github.io/sitemap.xml
+Sitemap: https://albertglebocki.github.io/sitemap.xml
